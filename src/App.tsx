@@ -3,7 +3,7 @@ import { Users, Brain, Star, Filter } from 'lucide-react';
 import { MetricCard } from './components/MetricCard';
 import { DataTable } from './components/DataTable';
 import { Charts } from './components/Charts';
-import type { CyberData } from './types';
+/**import type { CyberData } from './types';**/
 import realData from './data/book.json';
 
 function App() {
